@@ -14,7 +14,7 @@ public class GestionFenetreAssurance implements ActionListener {
     public GestionFenetreAssurance(FenetreAssurance fenetre) {
         this.fenetre = fenetre;
         
-        
+        jay agil
         
     }
     
