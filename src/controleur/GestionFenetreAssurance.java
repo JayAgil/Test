@@ -13,8 +13,11 @@ public class GestionFenetreAssurance implements ActionListener {
 
     public GestionFenetreAssurance(FenetreAssurance fenetre) {
         this.fenetre = fenetre;
+        
+        
+        
     }
-
+    
     @Override
     public void actionPerformed(ActionEvent e) {
         switch (((JButton) e.getSource()).getText()) {
